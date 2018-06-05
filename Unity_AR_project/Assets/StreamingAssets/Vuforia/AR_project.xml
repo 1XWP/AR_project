@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="etoy_1" size="1.000000 1.414516" />
+    <ImageTarget name="etoy" size="1.000000 1.414516" />
+    <ImageTarget name="temp" size="0.100000 0.141452" />
+    <ImageTarget name="monochrome" size="1.000000 1.414516" />
+    <ImageTarget name="avp" size="1.000000 1.414516" />
+    <ImageTarget name="sam_symbol" size="1.000000 1.088625" />
+  </Tracking>
+</QCARConfig>
